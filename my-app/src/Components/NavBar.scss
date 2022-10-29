@@ -1,0 +1,19 @@
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  img{
+    width: 200px;
+  }
+}
+a{
+  text-decoration: none;
+}
+.right-navs{
+  display: flex;
+}
+
+.right-nav-items{
+  margin-left: 20px;
+  
+}
