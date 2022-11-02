@@ -93,8 +93,7 @@ const ProjectsPage = () => {
           <p>My beautiful portfolio site you are currently looking at.</p>
           <p>Technology Used: This was built using React</p>
           <div className="links">
-            <p>Github:</p>
-            <p>Link:</p>
+            <p>Github: <a href="https://github.com/joshuaagunsoye/PortfolioV2">https://github.com/joshuaagunsoye/PortfolioV2</a></p>
           </div>
         </div>
       </div>
