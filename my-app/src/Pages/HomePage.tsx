@@ -38,17 +38,18 @@ const HomePage = () => {
       </div>
 
       <div className="link-icons">
-        <a href="https://github.com/joshuaagunsoye" target="_blank">
+        <a href="https://github.com/joshuaagunsoye" target="_blank" rel="noreferrer">
           <AiFillGithub />
         </a>
         <a
           href="https://www.linkedin.com/in/joshua-agunsoye-87a652144/"
           target="_blank"
+          rel="noreferrer"
         >
           {" "}
           <AiFillLinkedin />
         </a>
-        <a href="https://www.instagram.com/_currryy/" target="_blank">
+        <a href="https://www.instagram.com/_currryy/" target="_blank" rel="noreferrer">
           <AiFillInstagram />
         </a>
       </div>
